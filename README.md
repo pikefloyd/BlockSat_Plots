@@ -1,5 +1,5 @@
 # BlockSat_Plots
-Jpeg plots and csv data showing frequency spectrum plots of the Blockstream Satellite signal from Telstar 11N 37W
+Plots and csv data showing frequency spectrum plots of the Blockstream Satellite signal from Telstar 11N 37W
 
 More information;
 
